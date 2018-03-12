@@ -1,18 +1,18 @@
 # Playchat Docs
 ## 목차
 * 시작하기
-	*	어떤 챗봇을 원하세요?(What kind of Chatbot do you want?)
+	*	어떤 챗봇을 원하세요?
 		*	대화 셋
 		*	대화 시나리오
-	*	대화 셋을 이용한 챗봇 구축하기(Building your Chatbot with Dialog Set)
+	*	대화 셋을 이용한 챗봇 구축하기
 		*	대화 블록 학습시키기
 		*	다대다 대화 블록 학습시키기
 		*	대화 셋 불러오기
-	*	대화 시나리오를 이용한 챗봇 구축하기(Building your Chatbot with Dialog Scenario)
+	*	대화 시나리오를 이용한 챗봇 구축하기
 		* 대화  카드  만들기
 		* 크롤링  시나리오  만들기
 		* 재질의 카드 만들기
-	*	답변 전 실행함수 적용하기(Applying Task with your Chatbot)
+	*	답변 전 실행함수 적용하기
 		* 변수  저장하기
 		* 저장된  변수  이용하기
 		* 크롤링  실행하기
