@@ -1,2 +1,0 @@
-# PlayChat-Docs
-PlayChat-Docs
