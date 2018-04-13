@@ -62,7 +62,8 @@ Create a dialog card following these procedures.
 
 7. Go for a test drive. Enter the question that was added through the test dialog window on the right. You’ll find the chatbot responding using the ready-made output.
 
-## Tip Under the test dialog window, a dialog analysis window will pop up. It provides a simple analysis on the basic units of cards consisting of the user’s input and the chatbot’s output.
+## Tip 
+Under the test dialog window, a dialog analysis window will pop up. It provides a simple analysis on the basic units of cards consisting of the user’s input and the chatbot’s output.
 
 * User input analysis - Goes through a natural language processing of the user’s inputs and shows the results.
 
@@ -72,11 +73,12 @@ Create a dialog card following these procedures.
 
 * Chatbot output analysis - Shows which data was matched with the user’s input to present the chatbot’s response.
 
-비트코인  검색  시나리오  만들기Create a Bitcoin Search Scenario
+## Create a Bitcoin Search Scenario
 
 A dialog scenario is  a set of different card units. Much like the addition of the “Bitcoin Starter” card on the initial starter card, it is possible to add descendent  cards or sister cards. As numerous cards are connected, they form a tree-shaped graph, and the final outcome is called a Dialog scenario.
 
-## Tip  대화  시나리오는  왜  필요할까요? Why is a dialog scenario needed? Take a look into the procedure of a BitcoinBot gathering info from the users of 1) the type of bitcoin they are about to search 2) the info they are trying to find out and 3)the cases of them executing the search
+## Tip 
+Why is a dialog scenario needed? Take a look into the procedure of a BitcoinBot gathering info from the users of 1) the type of bitcoin they are about to search 2) the info they are trying to find out and 3)the cases of them executing the search
 
 1. The info regarding the type of bitcoin the user wants to search for is input.
 
@@ -91,7 +93,7 @@ A dialog scenario is  a set of different card units. Much like the addition of t
 For the chatbot to properly execute it’s cause, the above procedures are made in order. A single card unit may be used to process the entire procedure, but this may not be an ideal case for beginners as it may not be intuitive. This is because, in principle, a single card unit is best used to process a single function. In the case of a “Search Scenario”, three different functions are needed, due to the three procedures above, so it is ideal to connect and utilize three different card units to create a Bitcoin Search Scenario. In other words, when a specific procedure has to be made in order to fulfill a cause, creating descendant cards is recommended.
 
   
-<![if !supportLineBreakNewLine]>  
+  
 
 
 Create a bitcoin search scenario following these procedures.
