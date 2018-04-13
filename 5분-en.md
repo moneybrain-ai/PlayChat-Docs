@@ -11,7 +11,7 @@ This method is used by teaching the chatbot blocks of dialog which are made by c
 
 This method is used by using scenario graphs that are provided by PlayChat to create the chatbot. If a dialog scenario is used, it works beyond simple one-on-one Q&As and can even work dialogs that require specific procedures and functions(C.F. Crawling, Phone num. certification, interlocking external servers, etc.).
 
-## Ti
+## Tip
 
 It is possible to create a chatbot by using both dialog blocks and scenarios, this way a smarter/practical chatbot can me created. It is best if you decide on the method determining on the purpose of your chatbot.
 
@@ -52,7 +52,7 @@ Teach the program dialog blocks following these procedures.
 <![if !supportLists]>4. <![endif]>Go for a test drive.  
 Now the chatbot is ready to understand the given questions and correctly answer them. Enter the question that was added through the test dialog window on the right. Try asking the question using slightly different expressions. PlayChat can answer questions that are similar to the initially added question.
 
-## Ti
+## Tip
 
 Under the test dialog window, a dialog analysis window will pop up. It provides a simple analysis on the basic units of dialog consisting of the user’s input and the chatbot’s output.
 
@@ -96,7 +96,7 @@ Teach the program dialog sets following these procedures.
 
 <![if !supportLists]>4. <![endif]>Click on the “Choose file” button to upload the file.
 
-## Ti
+## Tip
 
 The uploaded file will be saved as a dialog set. Newly added dialog sets are applied only when you choose to “Use” them.
 
