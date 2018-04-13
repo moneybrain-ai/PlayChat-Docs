@@ -55,9 +55,9 @@ Now the chatbot is ready to understand the given questions and correctly answer 
 
 Under the test dialog window, a dialog analysis window will pop up. It provides a simple analysis on the basic units of dialog consisting of the user’s input and the chatbot’s output.
 
-• User input analysis - Goes through a natural language processing of the user’s inputs and shows the results.
+* User input analysis - Goes through a natural language processing of the user’s inputs and shows the results.
 
-• Chatbot output analysis - Shows which data was matched with the user’s input to present the chatbot’s response.
+* Chatbot output analysis - Shows which data was matched with the user’s input to present the chatbot’s response.
 
 ## Teaching multiple-connected Dialog Blocks
 
@@ -65,11 +65,11 @@ It is possible to teach the program dialog blocks which connect multiple questio
 
 1. Enter the questions the users may ask in the “User Input” space. Press the “+” key in the “User Input” space in order to enter extra questions.
 
-◦ User Input - “What is the phone number?", “I want to know the phone number", “Curious about the phone number.”
+* User Input - “What is the phone number?", “I want to know the phone number", “Curious about the phone number.”
 
 2. Enter the correlating responses in the “Chatbot response” space. Press the “+” key in the “Chatbot response” space in order to enter extra responses.
 
-◦ Chatbot response - “The phone number is 080-858-5683.”, “It’s 080-858-5683~ Give us a call anytime!”
+* Chatbot response - “The phone number is 080-858-5683.”, “It’s 080-858-5683~ Give us a call anytime!”
 
 3. Click on the “Save” button.
 
