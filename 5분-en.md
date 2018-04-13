@@ -1,6 +1,3 @@
-
-<![endif]-->
-
 ## What kind of Chatbot do you want?
 
 PlayChat chatbots makes dialog with the user’s question and the chatbot’s respond as it’s two main message units. PlayChat chatbots can be made using two different methods.
@@ -45,9 +42,9 @@ Teach the program dialog blocks following these procedures.
 
 2. Enter the questions the users may ask in the “User input” space. Enter the correlating responses in the “Chatbot response” space.
 
-◦ User Input - “Where is the company located?"
+* User Input - “Where is the company located?"
 
-◦ Chatbot Response - "PlayChat is located at Hongwu Building, near the 6th exit of gangnam station”
+* Chatbot Response - "PlayChat is located at Hongwu Building, near the 6th exit of gangnam station”
 
 3. Click on the “Save” button.
 
